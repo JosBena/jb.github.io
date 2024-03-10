@@ -25,6 +25,9 @@ section{
 .bi-webSIcon>a:hover{
     color: black !important;
 }
+.bi-webSIconAlt>a:hover{
+    color: white !important;
+}
 .pdfFix{
     h1{
         color: white;
